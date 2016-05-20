@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能客房</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_search">搜索</string>
+    <string name="tab_center">个人中心</string>
+    <string name="tab_setting">设置</string>
+    <string name="tab_smartHome">智能家居</string>
+    <string name="socket_port">8300</string>
+    <string name="broadcast_ip">"255.255.255.255"</string>
+    <string name="open_lock">开门</string>
+    <string name="open_value">开</string>
+    <string name="close_value">关</string>
+    <string name="stop_value">停</string>
+    <string name="big_value">大</string>
+    <string name="normal_value">中</string>
+    <string name="small_value">小</string>
+    <string name="bright">调亮</string>
+    <string name="dark">调暗</string>
+    <string name="save">保存</string>
+    <string name="systemSetting">系统设置</string>
+    <string name="new_timer">创建定时</string>
+
+    <!-- dev edit -->
+    <string name="dev_name">设备名称</string>
+    <string name="dev_roomNmae">房间名称</string>
+    <string name="dev_chns">设备通道</string>
+    <string name="del_dev">删除</string>
+
+    <!-- chn out in -->
+    <string name="module_set">模块设置</string>
+    <string name="chn_in_set">输入模块设置</string>
+    <string name="chn_out">输出模块</string>
+    <string name="chn_in">输入模块</string>
+    <string name="chn_red">红外设备</string>
+    <string name="key_test">测试</string>
+    <string name="key_edit">配置</string>
+    <string name="key_add">添加</string>
+
+    <!-- talk call -->
+    <string name="callAccpet">接听</string>
+    <string name="callCancel">挂断</string>
+    <string name="newCallInfo">有新的视频呼叫，是否接听</string>
+
+    <!-- rcuinfo -->
+    <string name="rcu_name">模块名称</string>
+    <string name="rcu_id">设备ID</string>
+    <string name="rcu_pass">设备密码</string>
+    <string name="rcu">联网模块</string>
+
+    <!-- sceneEvent -->
+    <string name="scene_title">情景模式</string>
+    <string name="scene_setting">情景设置</string>
+    <string name="home_model">在家模式</string>
+    <string name="out_model">外出模式</string>
+    <string name="movie_model">影院模式</string>
+    <string name="bed_model">就寝模式</string>
+    <string name="visitor_model">会客模式</string>
+    <string name="new_scene_model">新增模式</string>
+    <string name="exe_scene">执行</string>
+
+    <!-- ImageView content description -->
+    <string name="login_activity_logo">app_logo</string>
+    <string name="login_activity_title">app_title</string>
+    <string name="login_activity_reg_btn">注册</string>
+    <string name="login_activity_right_btn">注册</string>
+
+    <!-- activity login -->
+    <string name="edittext_sn">用户名</string>
+    <string name="edittext_register_code">密码</string>
+    <string name="confirmPass">确认</string>
+    <string name="cancel">取消</string>
+    <string name="edittext_register_confirm">确认密码</string>
+    <string name="edittext_register_identifying">验证码</string>
+    <string name="edittext_register_phone">手机号码</string>
+    <string name="title_activity_talk">TalkActivity</string>
+    <string name="activity_login_login_btn">登录</string>
+    <string name="activity_login_title">用户登录</string>
+    <string name="auto_login_code">自动登录</string>
+
+    <!-- app actions -->
+    <string name="app_back">返回</string>
+    <string name="app_logout">退出</string>
+    <string name="app_register">注册</string>
+    <string name="app_login">登录</string>
+
+    <!-- actions -->
+    <string name="action_log_out">退出</string>
+    <string name="photo">图片</string>
+    <string name="music">音乐</string>
+    <string name="alarm">闹钟</string>
+    <string name="message">信息</string>
+    <string name="setting">设置</string>
+    <string name="title1">远程家电控制</string>
+    <string name="sub_title1">实时查看控制家电开关</string>
+    <string name="title2">远程布防</string>
+    <string name="sub_title2">布防撤防报警状态</string>
+    <string name="title3">视频对讲</string>
+    <string name="sub_title3">接听监视开锁</string>
+    <string name="activity_title_video_talk">视频对讲</string>
+
+    <!-- activity talk -->
+    <string name="activity_talk_iv_dcs_contact">联系人画面</string>
+    <string name="activity_talk_iv_dcs_me">我的画面</string>
+    <string name="activity_talk_call_down">挂断</string>
+    <string name="activity_talk_open_door">开门</string>
+    <string name="activity_talk_title">视频对话</string>
+    <string name="activity_talk_right_btn">挂断</string>
+    <string name="activity_talk_watch">监视</string>
+    <string name="activity_talk_hht">户户通</string>
+
+    <!-- activity register -->
+    <string name="activity_register_username">注册码</string>
+    <string name="activity_register_password">序列号</string>
+    <string name="activity_register_login_btn">注册</string>
+    <string name="activity_register_title">新用户注册</string>
+
+    <!-- ware dev -->
+    <string name="e_ware_airCond">空调</string>
+    <string name="e_ware_tv">电视</string>
+    <string name="e_ware_tvup">机顶盒</string>
+    <string name="e_ware_light">灯光</string>
+    <string name="e_ware_curtain">窗帘</string>
+    <string name="e_ware_lock">门锁</string>
+    <string name="e_ware_fresh_air">新风</string>
+    <string name="e_ware_dev">设备</string>
+    <string name="e_ware_value">阀门</string>
+
+    <item name="remote_info" type="id">false</item>
+    <item name="remote_mute" type="id">false</item>
+    <item name="remote_power" type="id">false</item>
+    <item name="remote_fav" type="id">false</item>
+    <item name="remote_exit" type="id">false</item>
+    <item name="remote_volup" type="id">false</item>
+    <item name="remote_voldown" type="id">false</item>
+    <item name="remote_menu" type="id">false</item>
+    <item name="remote_chup" type="id">false</item>
+    <item name="remote_chdown" type="id">false</item>
+    <item name="remote_blink" type="id">false</item>
+    <item name="remote_tv_power" type="id">false</item>
+    <item name="remote_day_left" type="id">false</item>
+    <item name="remote_day_right" type="id">false</item>
+    <item name="remote_page_plus" type="id">false</item>
+    <item name="remote_page_minus" type="id">false</item>
+    <item name="remote_up" type="id">false</item>
+    <item name="remote_left" type="id">false</item>
+    <item name="remote_ok" type="id">false</item>
+    <item name="remote_right" type="id">false</item>
+    <item name="remote_down" type="id">false</item>
+    
+    <item name="pos04" type="id"></item>
+    <item name="pos05" type="id"></item>
+    <item name="pos06" type="id"></item>
+    <item name="pos07" type="id"></item>
+    
+    <item name="pos14" type="id"></item>
+    <item name="pos15" type="id"></item>
+    <item name="pos16" type="id"></item>
+    <item name="pos17" type="id"></item>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <Button
+        android:id="@+id/curtainOpenBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/reg_btn"
+        android:text="@string/open_value"
+        android:textColor="@color/white"
+        android:textSize="@dimen/LargerTextSize" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <Button
+        android:id="@+id/curtainStopBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/reg_btn"
+        android:text="@string/stop_value"
+        android:textColor="@color/white"
+        android:textSize="@dimen/LargerTextSize" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <Button
+        android:id="@+id/curtainCloseBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/reg_btn"
+        android:text="@string/close_value"
+        android:textColor="@color/white"
+        android:textSize="@dimen/LargerTextSize" />
+
+</LinearLayout>

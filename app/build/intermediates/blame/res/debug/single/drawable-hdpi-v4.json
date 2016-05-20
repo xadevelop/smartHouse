@@ -1,0 +1,998 @@
+[
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_user_1.jpg",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/login_user_1.jpg"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/curtain_dev.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/curtain_dev.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tv_down.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/tv_down.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tp5.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/tp5.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num01_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num01_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_inner_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_inner_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_lobby_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_lobby_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/clbk.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/clbk.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num07_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num07_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tv.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_tv.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_pressed.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/room_pressed.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num04_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num04_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/value_dev.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/value_dev.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_checkbox_mini_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_checkbox_mini_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_sendbtn_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_sendbtn_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tv.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/tv.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_preference_one_pressed.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_preference_one_pressed.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_lastch.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_lastch.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_open.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/lock_open.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_shelf_category_divider.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_shelf_category_divider.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ware_air_cond.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ware_air_cond.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dk.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/dk.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/curtain_pressed.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/curtain_pressed.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num01.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num01.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_ok_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_ok_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_pass_2.jpg",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/login_pass_2.jpg"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_checkbox_mini_checked.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_checkbox_mini_checked.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ac.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ac.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num08_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num08_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_day_left.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_day_left.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_match_ok.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/shake_match_ok.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_one_disabled.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.jpg",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/logo.jpg"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_living_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_living_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_voldown_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_voldown_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_round_vertical_rectangle.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bg_round_vertical_rectangle.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_page_plus.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_page_plus.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tv_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/tv_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_chdown_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_chdown_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/room_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_lastch_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_lastch_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num06_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num06_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/light_on.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/light_on.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num06_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num06_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/clqg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/clqg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_volup_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_volup_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_preference_first_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_chup.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_chup.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_day_right.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_day_right.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_ch.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/txt_ch.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/c5.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/c5.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/c2.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/c2.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_circle_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bg_circle_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num08.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num08.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_title_btn_focused.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/c4.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/c4.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yangan.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/yangan.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_corridor_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_corridor_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_user.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/login_user.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num05.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num05.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_two_focused.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_style_two_focused.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_grid.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_style_grid.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/huanjinjiance.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/huanjinjiance.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_voldown.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_voldown.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_page_minus.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_page_minus.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num06.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num06.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/freshair_dev.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/freshair_dev.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_loading_outside.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ll_loading_outside.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_guide_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_guide_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num03_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num03_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_menu_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_menu_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/duijiang_press.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/duijiang_press.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/other.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/other.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lamp_dev.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/lamp_dev.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_edit_focused.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_edit_focused.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_logo3.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/app_logo3.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_up_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_up_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/c3.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/c3.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/air_close.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/air_close.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num07.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num07.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/after.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/after.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_dev.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/lock_dev.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_item_normal_bg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_item_normal_bg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_down_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_down_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle_button_highlight.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bottle_button_highlight.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num10_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num10_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jiaju.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/jiaju.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/smoke_close.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/smoke_close.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle_button_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bottle_button_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/created.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/created.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_close.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/lock_close.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num10.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num10.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/smoke_open.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/smoke_open.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yszhfx.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/yszhfx.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/freshair_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/freshair_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_page_plus_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_page_plus_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num10_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num10_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_logo2.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/app_logo2.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_round_rectangle.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bg_round_rectangle.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/anfang_press.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/anfang_press.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/create.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/create.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_two_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_style_two_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num03_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num03_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/device_air_pressed.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/device_air_pressed.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_plus100.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_plus100.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/on_enable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/on_enable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_item_selected_bg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_item_selected_bg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_chdown.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_chdown.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_blink.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_blink.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_check_off_normal.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_check_off_normal.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num07_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num07_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_info.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_info.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/valve_close.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/valve_close.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jdh_down.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/jdh_down.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_vol.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/txt_vol.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.jpg",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bg.jpg"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qj.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/qj.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jdh.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/jdh.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stb.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_stb.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/et_bg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/et_bg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_check_off_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_check_off_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_logo.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/app_logo.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_three_pressed.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_style_three_pressed.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tp4.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/tp4.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/nav_page_tile.jpg",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/nav_page_tile.jpg"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_check_on_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_check_on_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num04_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num04_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_title_btn_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_edit_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_edit_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_down.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_down.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/smhome.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/smhome.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kt.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/kt.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialogbg.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/dialogbg.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/smoke_fault.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/smoke_fault.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_preference_one_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_preference_one_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/reg_btn.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/reg_btn.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num09.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num09.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_tv_power_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_tv_power_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_day_left_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_day_left_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo_title.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/logo_title.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_ok.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_ok.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/value_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/value_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_bed_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_bed_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/grid_item_background.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/grid_item_background.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/anfang.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/anfang.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kt_down.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/kt_down.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_kitchen_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_kitchen_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/curtain_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/curtain_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_background.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/room_background.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bg.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_bg.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/lock_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num02.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num02.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/clqk.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/clqk.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dg_down.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/dg_down.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tp2.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/tp2.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_balcony_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_balcony_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/huanjinjiance_press.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/huanjinjiance_press.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qk.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/qk.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle_star.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bottle_star.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_fav.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_fav.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_chup_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_chup_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_bg.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/item_bg.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_pass.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/login_pass.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/aircond_dev.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/aircond_dev.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_right_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_right_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_lastch_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_lastch_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cl_down.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/cl_down.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qingjing_press.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/qingjing_press.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_frame_chat.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/shake_frame_chat.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/box.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/box.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_exit_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_exit_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num08_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num08_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_study_small.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/icon_study_small.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sz.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/sz.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/light.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/light.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_menu.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_menu.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/device_air_normal.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/device_air_normal.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_exit.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_exit.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num05_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num05_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cl.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/cl.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_category_mark.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_category_mark.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sz_scene.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/sz_scene.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_page_minus_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_page_minus_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/round1.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/round1.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/round.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/round.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/b.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/b.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_tv_power.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_tv_power.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/basetitle_bg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/basetitle_bg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_mute_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_mute_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_left.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_left.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_info_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_info_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_triangle.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bg_triangle.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num02_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num02_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setbox_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/setbox_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/duijiang.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/duijiang.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_up.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_up.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_blink_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_blink_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mmtitle_bg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mmtitle_bg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qj_down.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/qj_down.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/a.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/a.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/valve.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/valve.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/curtain.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/curtain.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_right.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_right.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_day_right_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_day_right_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/air_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/air_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/air_open.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/air_open.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_plus100_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_plus100_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num02_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num02_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_preference_first_pressed.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/c6.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/c6.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num09_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num09_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/curtain_close.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/curtain_close.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num04.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num04.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/aircond.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/aircond.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/curtain_open.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/curtain_open.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_title_btn_pressed.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/off_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/off_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/smoke_unregistered.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/smoke_unregistered.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/c1.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/c1.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/led_r.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/led_r.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_mute.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_mute.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dqg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/dqg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_two_pressed.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_style_two_pressed.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bitmap_book_read_chapterlist_repeat.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bitmap_book_read_chapterlist_repeat.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_capture.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_capture.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num01_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num01_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num03.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num03.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_dvd_power.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_dvd_power.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/light_off.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/light_off.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/valve_open.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/valve_open.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num09_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num09_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_guide_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_guide_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_power.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_power.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_num05_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_num05_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qingjing.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/qingjing.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_left_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_left_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jiaju_press.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/jiaju_press.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_check_on_normal.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_check_on_normal.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_guide.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_guide.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle_stationery.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bottle_stationery.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_dvd_power_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_dvd_power_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_power_click.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_power_click.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/remote_volup.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/remote_volup.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_plus100_disable.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/btn_plus100_disable.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_trans.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/mm_trans.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/qg.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottle_bg_normal.9.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/bottle_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dg.png",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/drawable-hdpi/dg.png"
+    }
+]

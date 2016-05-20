@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/outpatient_check_hospital"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5.0dip"
+        android:layout_marginTop="5.0dip"
+        android:background="@color/white"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/linear_layout_up"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dip"
+            android:gravity="center"
+            android:background="@drawable/et_bg"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="10dip"
+                android:layout_height="10dip"
+                android:adjustViewBounds="false" />
+
+            <TextView
+                android:id="@+id/tv_key_name"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.0"
+                android:text="名称"
+                android:textColor="@color/black"
+                android:textSize="@dimen/LargeTextSize"
+                android:typeface="monospace" />
+
+            <Button
+                android:id="@+id/key_test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/reg_btn"
+                android:focusable="false"
+                android:text="@string/key_test" />
+
+            <View style="@style/MMSplit" />
+
+            <View style="@style/MMSplit" />
+
+            <Button
+                android:id="@+id/key_edit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/reg_btn"
+                android:focusable="false"
+                android:text="@string/key_edit" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

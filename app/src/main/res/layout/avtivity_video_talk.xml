@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/nav_page_tile">
+
+    <FrameLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/video_talk_container">
+        <ImageView 
+            android:id="@+id/income_video"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"/>
+        <ImageView 
+            android:id="@+id/outcome_video"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_gravity="left|bottom"/>
+    </FrameLayout>
+
+</LinearLayout>

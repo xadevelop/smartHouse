@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30.0dip"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/LargerTextSize"
+        android:text="@string/newCallInfo" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30.0dip"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/callAccpet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reg_btn"
+            android:minWidth="100.0dip"
+            android:text="@string/callAccpet" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/callCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reg_btn"
+            android:minWidth="100.0dip"
+            android:text="@string/callCancel" />
+    </LinearLayout>
+
+</LinearLayout>

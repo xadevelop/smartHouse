@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/outpatient_check_hospital"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5.0dip"
+        android:layout_marginLeft="12.599976dip"
+        android:layout_marginRight="12.599976dip"
+        android:layout_marginTop="5.0dip"
+        android:background="@color/white"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/linear_layout_up"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dip"
+            android:gravity="center"
+            android:background="@drawable/et_bg"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="10dip"
+                android:layout_height="10dip"
+                android:adjustViewBounds="false" />
+
+            <TextView
+                android:id="@+id/tv_device_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.0"
+                android:textColor="#ff323232"
+                android:textSize="16.0sp"
+                android:typeface="monospace" />
+
+            <RadioGroup
+                android:id="@+id/rb_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/rb_open"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:textColor="@color/black"
+                    android:text="@string/open_value" />
+
+                <RadioButton
+                    android:id="@+id/rb_close"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:textColor="@color/black"
+                    android:text="@string/close_value" />
+            </RadioGroup>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

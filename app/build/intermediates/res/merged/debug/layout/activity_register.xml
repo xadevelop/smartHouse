@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MMBody"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/nav_page_tile"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/box_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="394dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:minHeight="210dp"
+        android:orientation="vertical"
+        android:paddingBottom="12.0dip"
+        android:paddingLeft="10.0dip"
+        android:paddingRight="10.0dip"
+        android:paddingTop="15.0dip" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/nameImage"
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:text="@string/edittext_sn" />
+
+            <EditText
+                android:id="@+id/uname"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/passImage"
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:text="@string/edittext_register_code" />
+
+            <EditText
+                android:id="@+id/upass"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg"
+                android:inputType="textPassword" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/confirmPassImage"
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:text="@string/edittext_register_confirm" />
+
+            <EditText
+                android:id="@+id/confirmPass"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg"
+                android:inputType="textPassword" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/phoneImage"
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:text="@string/edittext_register_phone" />
+
+            <EditText
+                android:id="@+id/uphone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg"
+                android:inputType="phone" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/identifyImage"
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:text="@string/edittext_register_identifying" />
+
+            <EditText
+                android:id="@+id/identifying_code"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg" >
+            </EditText>
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/reg_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reg_btn"
+            android:text="@string/login_activity_reg_btn"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+    </LinearLayout>
+
+</FrameLayout>

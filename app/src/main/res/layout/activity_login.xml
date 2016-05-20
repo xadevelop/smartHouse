@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MMBody"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <ImageView
+        android:id="@+id/title_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:contentDescription="@string/login_activity_title"
+        android:src="@drawable/app_logo" />
+
+    <LinearLayout
+        android:id="@+id/box_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/login_user_1" />
+
+            <EditText
+                android:id="@+id/lname"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="80dip"
+                android:background="@null"
+                android:hint="000101"
+                android:text="" />
+        </FrameLayout>
+
+        <View style="@style/MMSplit" />
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/login_pass_2" />
+
+            <EditText
+                android:id="@+id/lpass"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="80dip"
+                android:background="@null"
+                android:hint="0807"
+                android:text="" />
+        </FrameLayout>
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <CheckBox
+            android:id="@+id/auto_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/auto_login_code"
+            android:textColor="@color/black" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/reg_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reg_btn"
+            android:text="@string/activity_login_login_btn"
+            android:textColor="@color/black"
+            android:textSize="@dimen/LargerTextSize" />
+    </LinearLayout>
+
+</LinearLayout>

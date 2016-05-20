@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/lightOpenBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/open_value"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/lightCloseBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/close_value"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bright"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/bright"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/dark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/dark"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+    </LinearLayout>
+
+</LinearLayout>

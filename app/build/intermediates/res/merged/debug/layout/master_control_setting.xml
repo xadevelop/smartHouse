@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MMBody"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/nav_page_tile"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="10.0dip"
+        android:paddingRight="10.0dip" >
+
+        <View
+            style="@style/MMSplit"
+            android:layout_width="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:gravity="right|center_vertical"
+                android:text="系统ID"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysID"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+               android:gravity="right|center_vertical"
+                android:text="IP"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysIP"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:gravity="right|center_vertical"
+                android:text="子掩码"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysMask"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg" />
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+              android:gravity="right|center_vertical"
+                android:text="网关"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysGateway"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg" >
+            </EditText>
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+              android:gravity="right|center_vertical"
+                android:text="服务器"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysServer"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg" >
+            </EditText>
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+                android:gravity="right|center_vertical"
+                android:text="网关密码"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysGatewayPass"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg"
+                android:inputType="textPassword" >
+            </EditText>
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+               android:gravity="right|center_vertical"
+                android:text="原密码"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysGatewayOldPass"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg"
+                android:inputType="textPassword" >
+            </EditText>
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+              android:gravity="right|center_vertical"
+                android:text="新密码"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysGatewayNewPass"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg"
+                android:inputType="textPassword" >
+            </EditText>
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="80dip"
+                android:layout_height="match_parent"
+               android:gravity="right|center_vertical"
+                android:text="确认密码"
+                android:textColor="@color/black" />
+
+            <EditText
+                android:id="@+id/sysGatewayConfirmPass"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_bg"
+                android:inputType="textPassword" >
+            </EditText>
+        </LinearLayout>
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/sys_save_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/reg_btn"
+                android:text="@string/save"
+                android:textColor="@color/white"
+                android:textSize="@dimen/SmallerTextSize" />
+
+            <View style="@style/MMSplit" />
+
+            <View style="@style/MMSplit" />
+
+            <Button
+                android:id="@+id/sys_cancel_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/reg_btn"
+                android:text="@string/cancel"
+                android:textColor="@color/white"
+                android:textSize="@dimen/SmallerTextSize" />
+
+            <View style="@style/MMSplit" />
+
+            <View style="@style/MMSplit" />
+
+            <Button
+                android:id="@+id/sysSetting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/reg_btn"
+                android:text="@string/systemSetting"
+                android:textColor="@color/white"
+                android:textSize="@dimen/SmallerTextSize" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

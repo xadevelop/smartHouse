@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:2:1-178:12
+	package
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] /home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CAMERA
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:16:22-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:17:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:18:22-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:19:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:21:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:22:22-77
+application
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:24:5-176:19
+MERGED from [com.android.support:support-v4:20.0.0] /home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:25:9-60
+activity#com.example.smarthouse.hotel.activityHotel
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:29:9-40:20
+	android:screenOrientation
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:32:13-50
+	android:label
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:33:13-45
+	android:windowSoftInputMode
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:34:13-72
+	android:configChanges
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:31:13-74
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:30:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.example.smarthouse.HomeActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:41:9-45:20
+	android:configChanges
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:43:13-74
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:44:13-51
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:42:13-63
+activity#com.example.smarthouse.RegisterActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:46:9-49:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:48:13-51
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:47:13-67
+activity#com.example.smarthouse.homeActivityConfirm
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:50:9-53:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:52:13-47
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:51:13-70
+activity#com.example.smarthouse.lightControlView
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:54:9-57:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:55:13-67
+activity#com.example.smarthouse.activityLightTuneControl
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:58:9-61:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:59:13-75
+activity#com.example.smarthouse.activityCurtainControl
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:62:9-65:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:64:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:63:13-73
+activity#com.example.smarthouse.activityLockControl
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:66:9-69:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:68:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:67:13-70
+activity#com.example.smarthouse.valueControlView
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:70:9-73:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:72:13-47
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:71:13-67
+activity#com.example.smarthouse.activityAircondControl
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:74:9-77:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:76:13-47
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:75:13-73
+activity#com.example.smarthouse.activityFreshAirControl
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:78:9-81:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:80:13-47
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:79:13-74
+activity#com.example.smarthouse.createTimerEventActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:82:9-83:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:82:19-81
+activity#com.example.smarthouse.createSceneEventActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:84:9-85:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:84:19-81
+activity#com.example.smarthouse.createSceneEventActivity2
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:86:9-87:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:86:19-82
+activity#com.example.smarthouse.chnOutInActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:88:9-91:20
+	android:configChanges
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:90:13-74
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:89:13-67
+activity#com.example.smarthouse.controlTimerEventDevActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:92:9-95:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:93:13-79
+activity#com.example.smarthouse.activityEditDev
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:96:9-99:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:98:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:97:13-66
+activity#com.example.smarthouse.sceneEventDevlist
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:100:9-103:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:102:13-47
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:101:13-68
+activity#com.example.smarthouse.createTimerEventActivity2
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:104:9-105:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:104:19-82
+activity#com.example.smarthouse.SettingActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:106:9-107:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:106:19-72
+activity#com.example.smarthouse.VideoWatchActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:108:9-109:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:108:19-75
+activity#com.example.smarthouse.KeyInputSetActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:110:9-111:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:110:19-76
+activity#com.example.smarthouse.keyopItemActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:112:9-113:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:112:19-74
+activity#com.example.smarthouse.chnOpItemActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:114:9-115:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:114:19-74
+activity#com.example.smarthouse.keyOpItemAddActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:116:9-119:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:118:13-56
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:117:13-71
+activity#com.example.smarthouse.chnOpItemAddActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:120:9-123:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:121:13-71
+activity#com.example.smarthouse.activityAddSceneModel
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:124:9-127:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:126:13-47
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:125:13-72
+activity#com.example.smarthouse.rcuInfoActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:128:9-131:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:130:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:129:13-66
+activity#com.example.smarthouse.ActivitySetBoxControl
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:132:9-133:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:132:19-78
+activity#com.example.smarthouse.ActivityTvControl
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:134:9-135:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:134:19-74
+activity#com.example.smarthouse.activityRcuIOEdit
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:136:9-137:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:136:19-74
+activity#com.example.smarthouse.activityRcuIODevSet
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:138:9-139:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:138:19-76
+activity#com.example.smarthouse.activityRcuIOoutSet
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:140:9-141:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:140:19-76
+activity#com.example.smarthouse.activityRcuIODevSelect
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:142:9-145:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:144:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:143:13-73
+activity#com.example.smarthouse.activityRcuIkeyoutSet
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:146:9-149:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:148:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:147:13-72
+activity#com.example.smarthouse.activityRcuOutEdit
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:150:9-151:20
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:150:19-75
+activity#com.example.smarthouse.activityRcuOutAddKey
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:152:9-155:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:154:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:153:13-71
+activity#com.example.smarthouse.activityQucikSet
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:156:9-159:20
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:158:13-44
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:157:13-67
+service#com.pullmi.service.TalkService
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:161:9-162:19
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:161:18-63
+activity#com.example.smarthouse.TalkActivity_old
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:164:9-170:20
+	android:label
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:166:13-56
+	android:launchMode
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:167:13-43
+	android:windowSoftInputMode
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:169:13-54
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:168:13-51
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:165:13-67
+activity#com.example.smarthouse.VideoTalkActivity
+ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:171:9-175:20
+	android:launchMode
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:173:13-43
+	android:theme
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:174:13-51
+	android:name
+		ADDED from /home/hwp/Android/StudioProjects/smartHouse/app/src/main/AndroidManifest.xml:172:13-68

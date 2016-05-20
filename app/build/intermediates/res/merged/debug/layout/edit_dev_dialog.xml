@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/dev_name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/dev_name"
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="@drawable/et_bg"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/dev_roomNmae"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/dev_room_name"
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="@drawable/et_bg"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/dev_chns"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/dev_chns"
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="@drawable/et_bg"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/sava_dev_info"
+            style="@style/MMButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/save" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/delete_dev"
+            style="@style/MMButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/del_dev" />
+    </LinearLayout>
+
+</LinearLayout>

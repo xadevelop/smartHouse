@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/anim/fadedout_to_left_down.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/anim/fadedout_to_left_down.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/anim/avatar_animation.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/anim/avatar_animation.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/anim/push_up_in.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/anim/push_up_in.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/anim/push_up_out.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/anim/push_up_out.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/anim/fadedin_to_right_up.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/anim/fadedin_to_right_up.xml"
+    }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="ItemArray">
+        <item>联网模块</item>
+        <item>情景设置</item>
+        <item>组合设置</item>
+        <item>输入设置</item>
+        <item>输出设置</item>
+        <item>快速配置</item>
+    </array>
+    
+    <array name="devType">
+        <item>空调</item>
+        <item>电视</item>
+        <item>机顶盒</item>
+        <item>灯光</item>
+        <item>窗帘</item>
+        <item>阀门</item>
+    </array>
+
+</resources>

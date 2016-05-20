@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linear_layout_up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/et_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_board_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="名称"
+            android:textColor="@color/black"
+            android:textSize="@dimen/LargeTextSize"
+            android:layout_weight="1"
+            android:typeface="monospace" />
+
+        <TextView
+            android:id="@+id/tv_key_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="名称"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:textSize="@dimen/LargeTextSize"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/key_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:focusable="false" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/key_cmd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:focusable="false" />
+    </LinearLayout>
+
+</LinearLayout>

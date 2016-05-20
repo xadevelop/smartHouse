@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/air_condition_fragment.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/air_condition_fragment.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/avtivity_video_talk.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/avtivity_video_talk.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/scene_control_dev_gird.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/scene_control_dev_gird.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/create_scene_event.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/create_scene_event.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_add_scene.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_add_scene.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/aircond_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/aircond_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_scene_op.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_scene_op.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/hotle_settopbox_channel_activity.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/hotle_settopbox_channel_activity.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/hht.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/hht.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_talk.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_talk.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/lock_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/lock_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_my_set.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_my_set.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_tv_channel.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_tv_channel.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcuoutkey_add.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcuoutkey_add.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/create_scene_events.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/create_scene_events.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/ad_mm_activity.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/ad_mm_activity.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/dialog_call.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/dialog_call.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/hotle_tv_channel_activity.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/hotle_tv_channel_activity.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_list_item_op.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_list_item_op.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/input_dialog.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/input_dialog.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/scence_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/scence_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_chnopitem_add.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_chnopitem_add.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/loading.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/loading.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/light_tune_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/light_tune_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_settopbox_channel.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_settopbox_channel.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/alarm_grid_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/alarm_grid_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcuoutset.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcuoutset.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_home_confirm.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_home_confirm.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_control_dev.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_control_dev.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_hotel_main.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_hotel_main.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/freshair_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/freshair_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcuout.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcuout.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/set_chnout_keymap.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/set_chnout_keymap.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_keyinput_set.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_keyinput_set.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_keyopitem_set.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_keyopitem_set.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_gr_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_gr_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/timer_events.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/timer_events.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/cateye_loading.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/cateye_loading.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/devset_list_edit_header.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/devset_list_edit_header.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_hotel_light.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_hotel_light.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/outset_list_header.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/outset_list_header.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/adddev_list_header.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/adddev_list_header.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/devset_list_header.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/devset_list_header.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/create_timer_events.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/create_timer_events.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/ad_mm_title.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/ad_mm_title.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/master_control_setting.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/master_control_setting.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/grid_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/chnkey_op_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/chnkey_op_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/chnout_in_list_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/chnout_in_list_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/new_scenemode_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/new_scenemode_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/hotel_light_gridview_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/hotel_light_gridview_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activiyt_setting.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activiyt_setting.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/out_list_header.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/out_list_header.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_settopbox_channel_hor.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_settopbox_channel_hor.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/vp_fragment.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/vp_fragment.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/scene_list_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/scene_list_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_keyopitem_add.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_keyopitem_add.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcuioadd_dev.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcuioadd_dev.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_video_watch.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_video_watch.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/edit_dev_dialog.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/edit_dev_dialog.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/hotel_fragment_video_talk.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/hotel_fragment_video_talk.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/lock_control_view2.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/lock_control_view2.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_hotel.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_hotel.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_envdetect.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_envdetect.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/value_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/value_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/create_time_event.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/create_time_event.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcuioset_out.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcuioset_out.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/control_dev_gird.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/control_dev_gird.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/list_header.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/list_header.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcuioset.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcuioset.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/listio_out_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/listio_out_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/curtain_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/curtain_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcuioset_dev.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcuioset_dev.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/hotel_gridview_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/hotel_gridview_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/keyinput_set_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/keyinput_set_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/listio_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/listio_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/listio_adddev_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/listio_adddev_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/light_control_view.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/light_control_view.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/listout_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/listout_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/keyset_list_header.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/keyset_list_header.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_quick_set.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_quick_set.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/layout_menu.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/layout_menu.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/scene_deledit_dev_gird.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/scene_deledit_dev_gird.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/gv_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/gv_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_video_talk.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_video_talk.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_rcukeyset_out.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_rcukeyset_out.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/gateway_control.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/gateway_control.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/rcuinfo_input.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/rcuinfo_input.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/fragment_un_error.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/fragment_un_error.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/hotel_order_gridview_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/hotel_order_gridview_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/air_gridview_item.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/air_gridview_item.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/layout/activity_pad_home_activity.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/layout/activity_pad_home_activity.xml"
+    }
+]

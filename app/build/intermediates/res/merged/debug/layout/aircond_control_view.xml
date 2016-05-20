@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/txt_dangqianwendu1"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:text="温度设定"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/wendu_down"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/txt_dangqianwendu1"
+                android:background="@drawable/room_normal"
+                android:gravity="center"
+                android:text="-"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/wendu"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/wendu_down"
+                android:gravity="center"
+                android:text="25"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/wenduimage"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_toRightOf="@+id/wendu"
+                android:gravity="center"
+                android:text="℃"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/wendu_up"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/wenduimage"
+                android:background="@drawable/room_pressed"
+                android:gravity="center"
+                android:text="+"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="185dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="模式设置"
+            android:textColor="@color/black" />
+
+        <RadioGroup
+            android:id="@+id/wendu_model"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/wendu_auto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/radio_group_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="自动"
+                android:textColor="@color/black" />
+
+            <View style="@style/MMSplit" />
+
+            <RadioButton
+                android:id="@+id/wendu_cool"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/radio_group_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="制冷"
+                android:textColor="@color/black" />
+
+            <View style="@style/MMSplit" />
+
+            <RadioButton
+                android:id="@+id/wendu_heat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/radio_group_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:text="制热"
+                android:textColor="@color/black" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/aircondOpenBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/open_value"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/aircondCloseBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/close_value"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+    </LinearLayout>
+
+</LinearLayout>

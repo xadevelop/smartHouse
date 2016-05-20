@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_pref_summary.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_pref_summary.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_list_textcolor_one.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_list_textcolor_one.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_btn_text.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_btn_text.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_hyper_text.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_hyper_text.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_choice_text_color.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_choice_text_color.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_tab_btn.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_tab_btn.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/room_btn_text.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/room_btn_text.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_style_two_btn_text.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_style_two_btn_text.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_style_one_btn_text.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_style_one_btn_text.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/color_radiobutton.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/color_radiobutton.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/room_btn.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/room_btn.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_list_textcolor_time.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_list_textcolor_time.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_actbtn_text.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_actbtn_text.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_pref_title.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_pref_title.xml"
+    },
+    {
+        "merged": "/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/res/merged/debug/color/mm_list_textcolor_two.xml",
+        "source": "/home/hwp/Android/StudioProjects/smartHouse/app/src/main/res/color/mm_list_textcolor_two.xml"
+    }
+]

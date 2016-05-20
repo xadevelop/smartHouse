@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/edittext_register_code"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/lockPassEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/et_bg"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+ 
+    <Button
+        android:id="@+id/openLock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/reg_btn"
+        android:text="@string/open_lock"
+        android:textColor="@color/white"
+        android:textSize="@dimen/LargerTextSize" />
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="mm_root_view" type="id">false</item>
+    <item name="title_btn4" type="id">false</item>
+    <item name="title_btn1" type="id">false</item>
+    <item name="title" type="id">false</item>
+    <item name="nav_title" type="id">false</item>
+    <item name="title_to_top" type="id">false</item>
+
+    <!-- RemoteControlActivity -->
+    <item name="rooms_layout" type="id">false</item>
+    <item name="btn_num_1" type="id">false</item>
+    <item name="btn_num_2" type="id">false</item>
+    <item name="btn_num_3" type="id">false</item>
+    <item name="btn_num_4" type="id">false</item>
+    <item name="btn_num_5" type="id">false</item>
+    <item name="btn_num_6" type="id">false</item>
+    <item name="btn_num_7" type="id">false</item>
+    <item name="btn_num_8" type="id">false</item>
+    <item name="btn_num_9" type="id">false</item>
+    <item name="btn_num_10" type="id">false</item>
+    <item name="btn_num_11" type="id">false</item>
+    <item name="btn_num_12" type="id">false</item>
+    <item name="btn_plus_100" type="id">false</item>
+    <item name="btn_num_0" type="id">false</item>
+    <item name="btn_last_ch" type="id">false</item>
+    <item name="remote_guide" type="id">false</item>
+
+</resources>

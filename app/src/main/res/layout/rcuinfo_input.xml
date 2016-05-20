@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bottle_star"
+    android:orientation="vertical" >
+
+   <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+    
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/rcu_name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:background="@drawable/et_bg"
+            android:singleLine="true" />
+    </LinearLayout> 
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="80dip"
+            android:layout_height="wrap_content"
+           
+            android:gravity="center"
+            android:text="@string/rcu_id"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/id"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+   
+            android:singleLine="true"
+            android:background="@drawable/et_bg" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:layout_width="80dip"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/rcu_pass"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/pass"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+ 	
+            android:singleLine="true"
+            android:background="@drawable/et_bg" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+
+        <Button
+            android:id="@+id/confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/confirmPass"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+
+        <View style="@style/MMSplit" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/reg_btn"
+            android:text="@string/cancel"
+            android:textColor="@color/white"
+            android:textSize="@dimen/LargerTextSize" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MMBody"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/smHouse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/smhome" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/enMonitor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/huanjinjiance" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/smScene"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/qingjing" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/smTalkback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/duijiang" />
+
+        <View style="@style/MMSplit" />
+
+        <Button
+            android:id="@+id/smSecurity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/anfang" />
+    </LinearLayout>
+
+    <View style="@style/MMSplit" />
+
+    <View style="@style/MMSplit" />
+
+    <FrameLayout
+        android:id="@+id/menuFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

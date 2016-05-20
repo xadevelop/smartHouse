@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ffccddff</color>
+    <color name="grey">#ff58616d</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="toasterro">#ff9fd524</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="lightransparent">#a0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="ChattingSenderTextColor">#ff081c52</color>
+    <color name="ConversationVoiceTextColor">#ff339900</color>
+    <color name="navpage">#ffd1d1d1</color>
+    <color name="shake_info_text">#ffa1a1a1</color>
+    <color name="cell_item_divider">#ff0000ff</color>
+    <color name="dialog_list_item_bg">#ff7cbff6</color>
+    <color name="color1">#FFFACD</color>
+    <color name="color2">#FFEBCD</color>
+    <color name="color3">#FFE4B5</color>
+    <color name="color4">#FFE4B5</color>
+    <color name="color5">#FFC0CB</color>
+    <color name="color6">#FFA07A</color>
+    <color name="color7">#FF82AB</color>
+    <color name="color8">#FF7F00</color>
+    <color name="color9">#FF3E96</color>
+    <color name="color10">#E0FFFF</color>
+    <color name="color11">#5D478B</color>
+    <color name="color12">#53868B</color>
+    <color name="color13">#7FFF00</color>
+    <color name="transparent01">#9000</color>
+    <color name="etong_text_color">#ff336699</color>
+    <color name="temp_color">#ff43b4d9</color>
+    <color name="color_2">#2a4253</color>
+    <color name="color_bg_selected">#e0301e</color>
+    <color name="color_bg_normal">#e7e7e8</color>
+    <color name="color_text_selected">#ffffff</color>
+    <color name="color_text_normal">#000000</color>
+    <color name="griditems_bg">#ffe8ecef</color>
+    <color name="commo_text_color">#ff333333</color>
+    <color name="line">#ffd3dde6</color>
+    <color name="clr_pressed">#747478</color>
+    <color name="clr_normal">#bcc0c7</color>
+
+    <drawable name="clr_normal">#bcc0c7</drawable>
+    <drawable name="clr_pressed">#747478</drawable>
+    <drawable name="clr_normal_down">#efeff4</drawable>
+    <drawable name="clr_pressed_down">#bababa</drawable>
+    <drawable name="item_false">#d9d9d9</drawable>
+    <drawable name="item_true">#9fa1a3</drawable>
+
+</resources>

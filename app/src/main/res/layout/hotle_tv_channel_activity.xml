@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#d9d9d9"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal"
+                android:padding="5.0dip">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5.0dip"
+                    android:layout_weight="1.0"
+                    android:padding="7.0dip">
+
+                    <Button
+                        android:id="@id/remote_power"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/remote_power_select"
+                        android:gravity="left|center"
+                        android:onClick="onSettopRemoteChannelHandler" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="28.0dip">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bg_round_vertical_rectangle"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="7.0dip">
+
+                        <Button
+                            android:id="@id/remote_volup"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/remote_volup_select"
+                            android:onClick="onSettopRemoteChannelHandler" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/txt_vol" />
+
+                        <Button
+                            android:id="@id/remote_voldown"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/remote_voldown_select"
+                            android:onClick="onSettopRemoteChannelHandler" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="28.0dip">
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bg_round_vertical_rectangle"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="7.0dip">
+
+                        <Button
+                            android:id="@id/remote_chup"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/remote_chup_select"
+                            android:onClick="onSettopRemoteChannelHandler" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/txt_ch" />
+
+                        <Button
+                            android:id="@id/remote_chdown"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/remote_chdown_select"
+                            android:onClick="onSettopRemoteChannelHandler" />
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="30.0dip"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:background="#d9d9d9"
+                            android:orientation="vertical"
+                            android:padding="5.0dip" >
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="horizontal"
+                                android:padding="13.0dip">
+
+                                <Button
+                                    android:id="@id/btn_num_1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_1_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_num_2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_2_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_num_3"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_3_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="horizontal"
+                                android:padding="13.0dip">
+
+                                <Button
+                                    android:id="@id/btn_num_4"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_4_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_num_5"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_5_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_num_6"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_6_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="horizontal"
+                                android:padding="13.0dip">
+
+                                <Button
+                                    android:id="@id/btn_num_7"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_7_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_num_8"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_8_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_num_9"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_9_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="horizontal"
+                                android:padding="13.0dip">
+
+                                <Button
+                                    android:id="@id/btn_plus_100"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_plus_100_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_num_0"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="13.0dip"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_num_0_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+
+                                <Button
+                                    android:id="@id/btn_last_ch"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1.0"
+                                    android:background="@drawable/remote_last_ch_select"
+                                    android:onClick="onSettopRemoteKeyHandler" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:orientation="horizontal"
+                                android:padding="13.0dip">
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="CommitTransaction" severity="ignore" />
+    <issue id="HandlerLeak" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="NewApi" severity="ignore" />
+    <issue id="ShowToast" severity="ignore" />
+    <issue id="ViewHolder" severity="ignore" />
+</lint>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="30dip">
+
+        <Button
+            android:id="@+id/chnout_module"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bottle_normal_state_btn"
+            android:text="@string/chn_out" />
+
+        <Button
+            android:id="@+id/chnin_module"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bottle_normal_state_btn"
+            android:text="@string/chn_in" />
+
+        <Button
+            android:id="@+id/red_module"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/bottle_normal_state_btn"
+            android:text="@string/chn_red" />
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/chnProcessBar"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dip"
+        android:indeterminateDrawable="@drawable/animdraw2"
+        android:visibility="gone"
+        android:indeterminateDuration="1500" />
+
+    <ListView
+        android:id="@+id/chnList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginLeft="100dip"
+        android:layout_marginRight="100dip" >
+    </ListView>
+
+</LinearLayout>

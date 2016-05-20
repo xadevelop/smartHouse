@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hwp/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_104e6c718fd51a302640d36e8b61e0832cf038bb.jar" />
+    </item>
+    <item
+        jar="/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_160893c3b4842168f7928883d3a29b237e50eb08.jar" />
+    </item>
+    <item
+        jar="/home/hwp/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d6b519b1935e0cfa08464df62c9f1b0ee52ceab9.jar" />
+    </item>
+    <item
+        jar="/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/hwp/Android/StudioProjects/smartHouse/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-20.0.0_c9a1ea8f558eaba05fdd2d504c61a5b55f8111c5.jar" />
+    </item>
+
+</items>
